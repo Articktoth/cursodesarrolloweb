@@ -22,3 +22,4 @@ var resultado = "La suma es: " + (numero1 + numero2) + "<br/>" +
    "La division es: " + (numero1/numero2); 
 
  document.write(resultado);
+ //jajaja
